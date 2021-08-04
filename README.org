@@ -1,0 +1,5 @@
+* PLFA Notes
+
+Notes for Programming Language Foundations in Agda.
+
+Book website: https://plfa.github.io/
